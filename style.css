@@ -120,7 +120,6 @@ h1,h2,h3,h4,h5,h6,p,a {
     bottom: 0;
     width: 100%;
     background-color: white;
-    box-shadow: 0.7rem 0.7rem 0.7rem 0.7rem rgba(0,0,0,0.2);
 }
 
 .fixed-footer div{
@@ -189,4 +188,43 @@ h1,h2,h3,h4,h5,h6,p,a {
 
 .loop_wrap img:last-child {
   animation: loop2 50s linear infinite;
+}
+
+a{
+    text-decoration: none;
+}
+
+.mypage{
+    text-align: center;
+    padding-top: 10.0rem;
+}
+
+.mypage .img-2{
+    font-size: 20.0rem;
+    color:#2f4863;
+    
+}
+
+.mypage .name-2{
+    font-size: 3.5rem;
+    padding-bottom:5.0rem;
+    color:#2f4863;
+}
+
+.profile-2{
+    font-size: 2.8rem;
+    color:#2f4863;
+}
+
+.pentagram{
+    height:53.0rem;
+    width:auto;
+    padding-top: 3.0rem;
+    margin-bottom: 15.0rem;
+}
+
+.pentagram-2{
+    font-weight: bold;
+    padding-top: 5.0rem;
+    font-size: 5.0rem;
 }
