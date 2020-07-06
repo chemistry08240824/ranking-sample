@@ -220,11 +220,19 @@ a{
     height:53.0rem;
     width:auto;
     padding-top: 3.0rem;
-    margin-bottom: 15.0rem;
+    margin-bottom: 12.0rem;
 }
 
 .pentagram-2{
     font-weight: bold;
     padding-top: 5.0rem;
-    font-size: 5.0rem;
+    font-size: 7.0rem;
+}
+
+.pentagram-3{
+    padding-bottom: 20.0rem;
+}
+
+.pentagram-123{
+    margin-bottom: 30.0rem;
 }
